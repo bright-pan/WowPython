@@ -1,4 +1,5 @@
 ## CSS 引入方法
+```
 // 外部样式表
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -15,6 +16,7 @@
 
 //内嵌样式
 <p style="color:red">Sample Text</p>
+```
 
 # CSS 语法
 
