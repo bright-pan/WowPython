@@ -1,0 +1,189 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+body{
+    background-color: snow;
+
+
+}
+
+.back{
+    background-color: cadetblue;
+    width: 80%;
+    height: 820px;
+    margin: 0px auto;
+
+}
+.head{
+
+    width: 100%;
+    background-color: darkcyan;
+    height: 100px;
+    position: relative;
+
+
+}
+.headtitle{
+    float: left;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+    color: azure;
+
+}
+.headlead{
+
+
+}
+ul {
+    margin-left: 10px;
+    margin-top: 60px;
+    list-style: none;
+    float: left;
+    padding-left: 5px;
+}
+li{
+    padding: 2px;
+    display: inline;
+
+}
+a:link,a{
+    color: snow;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+}
+.headimage{
+
+    float: right;
+    margin-top: 30px;
+    margin-right: 5px;
+
+
+
+}
+.headimage  img{
+    height: 60px;
+    width: 60px;
+}
+.headform form{
+    float: right;
+    height: 26px;
+    margin-right: 50px;
+}
+
+form input{
+    height: 20px;
+    background-color: cadetblue ;
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 30px;
+
+}
+.foot{
+    text-align: center;
+    background-color: lightgray;
+    height: 50px;
+    padding: 20px;
+    font-size: 30px;
+    color: darkslategrey;
+
+}
+.bdy{
+    margin: 20px 10px;
+
+
+
+}
+.bdytitle{
+    color: snow;
+
+}
+.bdytitle p{
+    margin: 20px;
+
+}
+.img1{
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+
+
+
+}
+.img1 img{
+    width: 250px;
+    height: 220px;
+
+}
+.img1 p{
+    color: snow;
+    font-size: 20px;
+
+}
+
+.img2{
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+
+
+
+}
+.img2 img{
+    width: 250px;
+    height: 220px;
+
+}
+.img2 p{
+    color: snow;
+    font-size: 20px;
+
+}
+.img3{
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+
+
+
+}
+.img3 img{
+    width: 250px;
+    height: 220px;
+
+}
+.img3 p{
+    color: snow;
+    font-size: 20px;
+
+}
+.img4{
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+
+
+
+}
+.img4 img{
+    width: 250px;
+    height: 220px;
+
+}
+.img4 p{
+    color: snow;
+    font-size: 20px;
+
+}
