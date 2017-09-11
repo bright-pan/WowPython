@@ -1,0 +1,105 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+li,a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* #header 28.57 *2.7 */
+
+header {
+    width: 100%;
+    height: 102px;
+    background: #008b8b;
+
+}
+
+.shezhi{
+    content: "";
+    overflow: hidden;
+}
+
+h1{
+    font-size: 34px;
+    font-weight: border;
+    margin-top: 40px; 
+    float: left;
+    color: white;
+    /* 防止塌陷方法 */
+}
+
+header ul li{
+    display:inline-block;
+    color: white;
+    margin:64px 0 0 21px;
+    font-size:15px;
+    float: left;
+}
+
+
+form{
+    
+    display: inline-block;
+    float:right;
+  
+}
+
+.gong{
+    width: 58px;
+    height: 58px;
+    float: right;
+    margin: 31px 5px 0 50px; 
+    background: url("cla.png") no-repeat -10px -10px;
+}
+
+form input{
+    background-color: #5f9ea0;
+    width:105px;
+    height:25px;
+    float: right;
+    margin-top: 53px;
+    border: 1px border-style white;
+    outline-style: none;
+    border-radius: 10px;
+}
+
+/* #neirong */
+
+.content {
+    background-color: #5f9ea0;
+    width:100%;
+    height:100%;
+}
+
+.action1 {
+    height:103px;
+    margin:0 12px;
+    border-bottom: 2px solid;
+}
+.pagenj{
+    font-size:18px;
+    margin:26px 0;
+    font-weight: border;
+}
+
+.paglet{
+    text-indent: 2em;
+    font-size: 16px;
+}
+
+.content ul{
+    margin:40px 12px;
+
+    
+}
+
+li a {
+    width:119px;
+    height: 246px;
+}
